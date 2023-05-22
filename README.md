@@ -1,1 +1,1 @@
-# Belajar_RNN
+# buka lewat google colab
